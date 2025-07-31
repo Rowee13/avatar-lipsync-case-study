@@ -18,7 +18,7 @@ const MainHeader = () => {
                         href='/'
                         className='text-3xl font-[family-name:var(--font-bebas-neue)] font-bold'
                     >
-                        Parrow Horrizon Studio
+                        Avatar Lipsync App
                     </Link>
                 </div>
                 <nav>

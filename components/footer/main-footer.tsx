@@ -15,13 +15,13 @@ const MainFooter = () => {
                             rel='noopener noreferrer'
                             className='hover:text-cyan-500'
                         >
-                            Parrow Horrizon Studio
+                            PHS Case Study Project
                         </Link>{' '}
                         - {new Date().getFullYear()}
                     </p>
                     <div>
                         <Link
-                            href='https://github.com/Rowee13/phs-nextjs-starter/tree/master'
+                            href='https://github.com/Rowee13/avatar-lipsync-case-study'
                             passHref
                             target='_blank'
                             rel='noopener noreferrer'

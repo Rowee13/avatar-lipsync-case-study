@@ -1,6 +1,6 @@
 export const siteConfig = {
-    title: 'PHS NextJS Starter',
+    title: 'Avatar Lipsync App',
     description:
-        'A NextJS starter template created for Parrow Horrizon Studio.',
-    url: 'https://phs-next-starter.parrowhorrizonstudio.com',
+        'A case study project for setting up a lipsync animation for Avatar.',
+    url: 'https://avatar-lipsync.parrowhorrizonstudio.com',
 }
